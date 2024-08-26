@@ -1,0 +1,15 @@
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\Assignment-1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\Assignment-1.2.AssemblyInfoInputs.cache
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\Assignment-1.2.AssemblyInfo.cs
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\Assignment-1.2.csproj.CoreCompileInputs.cache
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\Assignment-1.2.sourcelink.json
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\bin\Debug\net8.0\Assignment-1.2.exe
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\bin\Debug\net8.0\Assignment-1.2.deps.json
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\bin\Debug\net8.0\Assignment-1.2.runtimeconfig.json
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\bin\Debug\net8.0\Assignment-1.2.dll
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\bin\Debug\net8.0\Assignment-1.2.pdb
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\Assignment-1.2.dll
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\refint\Assignment-1.2.dll
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\Assignment-1.2.pdb
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\Assignment-1.2.genruntimeconfig.cache
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Assignment-1\Assignment-1.2\obj\Debug\net8.0\ref\Assignment-1.2.dll

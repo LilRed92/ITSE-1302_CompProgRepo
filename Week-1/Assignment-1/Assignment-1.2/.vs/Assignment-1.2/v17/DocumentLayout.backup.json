@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kacie\\OneDrive - West Texas A and M University\\Desktop\\Amarillo College\\Fall 24\\ITSE-1302_CompProgRepo\\Week-1\\Assignment-1\\Assignment-1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2395FD-E672-4300-A477-4FACAA2084CF}|Assignment-1.2.csproj|c:\\users\\kacie\\onedrive - west texas a and m university\\desktop\\amarillo college\\fall 24\\itse-1302_compprogrepo\\week-1\\assignment-1\\assignment-1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2395FD-E672-4300-A477-4FACAA2084CF}|Assignment-1.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacie\\OneDrive - West Texas A and M University\\Desktop\\Amarillo College\\Fall 24\\ITSE-1302_CompProgRepo\\Week-1\\Assignment-1\\Assignment-1.2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kacie\\OneDrive - West Texas A and M University\\Desktop\\Amarillo College\\Fall 24\\ITSE-1302_CompProgRepo\\Week-1\\Assignment-1\\Assignment-1.2\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:16:46.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
