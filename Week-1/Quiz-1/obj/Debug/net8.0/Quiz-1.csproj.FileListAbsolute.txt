@@ -1,0 +1,14 @@
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\Quiz-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\Quiz-1.AssemblyInfoInputs.cache
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\Quiz-1.AssemblyInfo.cs
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\Quiz-1.csproj.CoreCompileInputs.cache
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\bin\Debug\net8.0\Quiz-1.exe
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\bin\Debug\net8.0\Quiz-1.deps.json
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\bin\Debug\net8.0\Quiz-1.runtimeconfig.json
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\bin\Debug\net8.0\Quiz-1.dll
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\bin\Debug\net8.0\Quiz-1.pdb
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\Quiz-1.dll
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\refint\Quiz-1.dll
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\Quiz-1.pdb
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\Quiz-1.genruntimeconfig.cache
+C:\Users\kacie\OneDrive - West Texas A and M University\Desktop\Amarillo College\Fall 24\ITSE-1302_CompProgRepo\Week-1\Quiz-1\obj\Debug\net8.0\ref\Quiz-1.dll
